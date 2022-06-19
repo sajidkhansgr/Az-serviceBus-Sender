@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = user_send_microservice
+build_property.ProjectDir = C:\Users\sajid\source\repos\Az-serviceBus-Sender\user-send-microservice\user-send-microservice\
